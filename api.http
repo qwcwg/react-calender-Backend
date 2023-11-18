@@ -1,0 +1,12 @@
+POST  http://localhost:8001/schedule
+Content-Type: application/json
+
+{
+  "writer_id": "1",
+  "schedule_date": "2023/6/30" ,
+  "content": "2test coverasdfasdfasd",
+  "title": "2test title"
+  
+}
+
+###
